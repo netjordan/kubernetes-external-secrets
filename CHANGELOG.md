@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [8.5.6](https://github.com/external-secrets/kubernetes-external-secrets/compare/8.5.5...8.5.6) (2024-09-27)
+* **deps:** bump lots of things
+
+
 ### [8.5.5](https://github.com/external-secrets/kubernetes-external-secrets/compare/8.5.4...8.5.5) (2022-03-23)
 
 
