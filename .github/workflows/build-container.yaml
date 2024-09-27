@@ -41,7 +41,7 @@ jobs:
               imageName = 'kubernetes-external-secrets';
             }
 
-            core.setOutput('image', `ghcr.io/external-secrets/${imageName}`);
+            core.setOutput('image', `netjordan/${imageName}`);
 
       - name: Docker meta
         id: docker_meta
