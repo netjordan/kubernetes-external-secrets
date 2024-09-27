@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@alicloud/kms20160120": "^1.1.0",
-    "@azure/identity": "^2.0.1",
+    "@azure/identity": "^4.2.1",
     "@azure/keyvault-secrets": "^4.3.0",
     "@google-cloud/secret-manager": "^3.2.3",
     "@ibm-cloud/secrets-manager": "^0.1.0",
